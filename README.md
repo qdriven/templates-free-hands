@@ -25,6 +25,10 @@ pip3 install ansible
 
 The more ansible scripts will be added to this repo, stay tuned! ................
 
-## JAVA Maven/Gradle Templates
-
 ## Doc Site Templates
+
+- [docsite-template](https://github.com/qdriven/qmeta-md-docsites.git)
+- install scripts
+```sh
+sh scripts/docsite.sh
+```
