@@ -7,10 +7,24 @@ Templates Project for QA Daily usages. There are serveral areas:
   - GO: Go Mod Project
   - Javascript: Typescript Projects
   - Python: Python Automation Projects
-
+- Doc Site Templates
 
 ## Ansible Playbook Templates
 
 - [ansible-playbook-templates](https://github.com/qdriven/ansible-playbook-templates.git)
 
 This Project is for quick setup a Ansible Script Projects, and there are some scripts to create different ansible roles.
+
+- How to Use to setup
+
+```sh
+git clone https://github.com/allroundtesters/ansible-playbook-templates.git
+rm -rf .git/
+pip3 install ansible
+```
+
+The more ansible scripts will be added to this repo, stay tuned! ................
+
+## JAVA Maven/Gradle Templates
+
+## Doc Site Templates
