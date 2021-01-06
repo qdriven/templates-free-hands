@@ -32,3 +32,5 @@ The more ansible scripts will be added to this repo, stay tuned! ...............
 ```sh
 sh scripts/docsite.sh
 ```
+
+## Typescript Template

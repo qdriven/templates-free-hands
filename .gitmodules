@@ -2,3 +2,8 @@
 [submodule "ansible-playbook-templates"]
 	path = ansible-playbook-templates
 	url = https://github.com/allroundtesters/ansible-playbook-templates.git
+
+
+[submodule "ansible-playbook-templates"]
+	path = qmeta-md-docsites
+	url = https://github.com/qdriven/qmeta-md-docsites.git
