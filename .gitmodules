@@ -1,0 +1,4 @@
+
+[submodule "ansible-playbook-templates"]
+	path = ansible-playbook-templates
+	url = https://github.com/allroundtesters/ansible-playbook-templates.git
