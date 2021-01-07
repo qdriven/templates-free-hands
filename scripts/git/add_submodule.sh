@@ -8,4 +8,4 @@ get_git_url(){
 github_url=`get_git_url`
 echo "current folder's github url is "${github_url}
 cd ..
-git submodule add ${github_url}
+git submodule add ${github_url} ${MODULE_FOLDER}

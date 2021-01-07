@@ -12,3 +12,7 @@
 [submodule "go-templates"]
 	path = go-templates 
 	url = https://github.com/qdriven/go-templates.git
+[submodule "qworkspace"]
+	path = qworkspace
+	url = https://github.com/qdriven/qworkspace.git
+

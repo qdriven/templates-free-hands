@@ -39,3 +39,8 @@ sh scripts/docsite.sh
 ## Golang Templates
 
 - [golang-template-project](https://github.com/qdriven/go-templates.git)
+
+## Java Maven/Gradle Templates Project
+
+- Template Repo
+- Change Names of all files by the given package/artifact-id
