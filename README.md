@@ -44,3 +44,7 @@ sh scripts/docsite.sh
 
 - Template Repo
 - Change Names of all files by the given package/artifact-id
+
+## Personal Setting
+
+- [qmetaworkspace](https://github.com/qdriven/qworkspace.git)
