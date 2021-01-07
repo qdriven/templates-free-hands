@@ -34,3 +34,8 @@ sh scripts/docsite.sh
 ```
 
 ## Typescript Template
+
+
+## Golang Templates
+
+- [golang-template-project](https://github.com/qdriven/go-templates.git)

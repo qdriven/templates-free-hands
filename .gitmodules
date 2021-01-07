@@ -4,6 +4,11 @@
 	url = https://github.com/allroundtesters/ansible-playbook-templates.git
 
 
-[submodule "ansible-playbook-templates"]
+[submodule "qmeta-md-docsites"]
 	path = qmeta-md-docsites
 	url = https://github.com/qdriven/qmeta-md-docsites.git
+
+
+[submodule "go-templates"]
+	path = go-templates 
+	url = https://github.com/qdriven/go-templates.git
